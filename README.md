@@ -1,4 +1,4 @@
-# Pico Weather 2.0.1
+# Pico Weather 2.0.2
 
 A Raspberry Pi Pico-based weather readout. There are two versions: one (Model A) using the Pico and the Pimoroni PicoWireless:
 
